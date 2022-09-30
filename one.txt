@@ -2,3 +2,4 @@ it is first file
 
 adding new line after moving to staging area
 adding again
+added new line no 5
